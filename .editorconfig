@@ -1,0 +1,10 @@
+root = true
+
+# ref:: https://github.com/obsidianmd/obsidian-help/blob/master/.editorconfig
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+indent_style = space # tab per ref
+indent_size = 4
+tab_width = 4

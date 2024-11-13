@@ -1,0 +1,2 @@
+# auto detect text files and perform LF normalization
+* text=auto # ret:: https://github.com/obsidianmd/obsidian-help/blob/master/.gitattributes

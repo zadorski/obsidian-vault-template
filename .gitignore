@@ -1,0 +1,19 @@
+# ref:: https://github.com/obsidianmd/obsidian-help/blob/master/.gitignore
+.obsidian
+.idea/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.trash
+ehthumbs.db
+Thumbs.db
+.css.map
+
+# ref:: https://dev.to/padiazg/how-to-sync-your-obsidian-vault-using-github-a-complete-guide-2l08
+.vscode
+conflict-files-obsidian-git.md
+
+# custom
+.obsidian.mobile
